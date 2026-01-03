@@ -1,0 +1,7 @@
+{
+  "name": "LeatherShop - Modern COD E-Commerce",
+  "description": "A minimal, mobile-first e-commerce platform with a focus on quick 'Cash on Delivery' ordering and a robust admin dashboard for product and order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
